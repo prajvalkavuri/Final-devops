@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,500&display=swap');
+
+#formHeading{
+   
+    height: 50px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#formHeading h1{
+    background: transparent;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight:bolder;
+    color:white;
+}
+
+
+#validation{
+    color:ivory;
+}
+
+label{
+    font-weight: bolder;
+    font-size: larger;
+    font-style: italic;
+}
